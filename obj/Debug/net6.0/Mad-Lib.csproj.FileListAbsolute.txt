@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\bin\Debug\net6.0\Mad-Lib.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\bin\Debug\net6.0\Mad-Lib.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\bin\Debug\net6.0\Mad-Lib.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\bin\Debug\net6.0\Mad-Lib.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\bin\Debug\net6.0\Mad-Lib.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\refint\Mad-Lib.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\Mad-Lib.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\MadLib\Mad-Lib\obj\Debug\net6.0\ref\Mad-Lib.dll
